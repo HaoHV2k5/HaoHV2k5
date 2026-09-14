@@ -106,7 +106,7 @@
         &nbsp;&nbsp;
         <img src="https://skillicons.dev/icons?i=prometheus" height="38" alt="Prometheus" />
         &nbsp;&nbsp;
-        <img src="https://skillicons.dev/icons?i=telegram" height="38" alt="Telegram Bot" />
+        <img src="https://porfolio.eraidev.id.vn/icons/telegram.svg" height="38" width="38" alt="Telegram Bot" />
         &nbsp;&nbsp;
         <img src="https://skillicons.dev/icons?i=postman" height="38" alt="Postman" />
         &nbsp;&nbsp;
