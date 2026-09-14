@@ -14,23 +14,15 @@
 
 <br/>
 
-<!-- PORTFOLIO & SOCIALS WITH PROPER SPACING -->
+<!-- PORTFOLIO & SOCIALS WITH SPACING & TARGET BLANK -->
 <p>
-  <a href="https://github.com/HaoHV2k5">
-    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/HaoHV2k5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hu%E1%BB%B3nh-v%C4%83n-h%C3%A0o-85150937a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:magicmath2k5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://porfolio.eraidev.id.vn/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/HaoHV2k5" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hao-huynh-van-634984431" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:magicmath2k5@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <br/>
@@ -45,7 +37,7 @@
 
 - 🎓 **Education**: Software Engineering Senior tại **FPT University** (GPA 3.3 / 4.0).
 - 💼 **Experience**: Team Leader & Backend Developer tại **FPT Software Academy** (Tốt nghiệp loại A).
-- 🚀 **Focus**: Java 17/21, Spring Boot 3, giải quyết tranh chấp dữ liệu (Race Conditions) với Redis & Docker CI/CD.
+- 🚀 **Focus**: Java 17/21, Spring Boot 3, xử lý concurrency với Redis & Docker CI/CD.
 - 💡 **Philosophy**: *"You may delay, but time will not."*
 
 <br/>
@@ -68,10 +60,6 @@
         <img src="https://skillicons.dev/icons?i=hibernate" height="38" alt="Hibernate" />
         &nbsp;&nbsp;
         <img src="https://skillicons.dev/icons?i=maven" height="38" alt="Maven" />
-        &nbsp;&nbsp;
-        <img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="NodeJS" />
-        &nbsp;&nbsp;
-        <img src="https://skillicons.dev/icons?i=python" height="38" alt="Python" />
       </p>
       <p>
         <kbd>Java 21</kbd> &nbsp; <kbd>Spring Boot 3</kbd> &nbsp; <kbd>Spring Security</kbd> &nbsp; <kbd>Hibernate / JPA</kbd> &nbsp; <kbd>RESTful API</kbd> &nbsp; <kbd>Maven</kbd>
@@ -82,8 +70,6 @@
       <p>
         <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="PostgreSQL" />
         &nbsp;&nbsp;
-        <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="MySQL" />
-        &nbsp;&nbsp;
         <img src="https://skillicons.dev/icons?i=redis" height="38" alt="Redis" />
         &nbsp;&nbsp;
         <img src="https://skillicons.dev/icons?i=supabase" height="38" alt="Supabase" />
@@ -91,7 +77,7 @@
         <img src="https://skillicons.dev/icons?i=mongodb" height="38" alt="MongoDB" />
       </p>
       <p>
-        <kbd>PostgreSQL</kbd> &nbsp; <kbd>MySQL</kbd> &nbsp; <kbd>Redis (Cache & Locks)</kbd> &nbsp; <kbd>Supabase</kbd> &nbsp; <kbd>MongoDB</kbd>
+        <kbd>PostgreSQL</kbd> &nbsp; <kbd>Redis (Cache & Locks)</kbd> &nbsp; <kbd>Supabase</kbd> &nbsp; <kbd>MongoDB</kbd>
       </p>
     </td>
   </tr>
@@ -119,6 +105,8 @@
         <img src="https://skillicons.dev/icons?i=grafana" height="38" alt="Grafana" />
         &nbsp;&nbsp;
         <img src="https://skillicons.dev/icons?i=prometheus" height="38" alt="Prometheus" />
+        &nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=telegram" height="38" alt="Telegram Bot" />
         &nbsp;&nbsp;
         <img src="https://skillicons.dev/icons?i=postman" height="38" alt="Postman" />
         &nbsp;&nbsp;
@@ -155,17 +143,17 @@
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4>🎟️ <a href="https://github.com/HaoHV2k5/tikzy">Tikzy</a></h4>
+      <h4>🎟️ <a href="https://github.com/HaoHV2k5/tikzy" target="_blank" rel="noopener noreferrer">Tikzy</a></h4>
       <p>Event ticketing marketplace với ticket reservation, Redis locks, Harbor CI/CD và Grafana telemetry.</p>
       <p><kbd>Java 21</kbd> &nbsp; <kbd>Spring Boot</kbd> &nbsp; <kbd>Redis</kbd> &nbsp; <kbd>Docker</kbd></p>
     </td>
     <td width="33%" valign="top">
-      <h4>🚗 <a href="https://github.com/HaoHV2k5/SWP391-SecondhandEV-Battery-Trading-Platform">EV & Battery</a></h4>
+      <h4>🚗 <a href="https://github.com/HaoHV2k5/SWP391-SecondhandEV-Battery-Trading-Platform" target="_blank" rel="noopener noreferrer">EV & Battery</a></h4>
       <p>Nền tảng thương mại xe điện & pin với VNPay payment gateway và hợp đồng điện tử Eversign.</p>
-      <p><kbd>Java 17</kbd> &nbsp; <kbd>Spring Boot</kbd> &nbsp; <kbd>VNPay</kbd> &nbsp; <kbd>MySQL</kbd></p>
+      <p><kbd>Java 17</kbd> &nbsp; <kbd>Spring Boot</kbd> &nbsp; <kbd>VNPay</kbd></p>
     </td>
     <td width="33%" valign="top">
-      <h4>💖 <a href="https://github.com/HaoHV2k5/UniDate">UniDate</a></h4>
+      <h4>💖 <a href="https://github.com/HaoHV2k5/UniDate" target="_blank" rel="noopener noreferrer">UniDate</a></h4>
       <p>Nền tảng ghép đôi sinh viên tích hợp Google Gemini AI phân tích tương thích và Firebase chat.</p>
       <p><kbd>Java 17</kbd> &nbsp; <kbd>Gemini AI</kbd> &nbsp; <kbd>Firebase</kbd> &nbsp; <kbd>SQL Server</kbd></p>
     </td>
